@@ -16,7 +16,7 @@ body {
   font-weight: bold;
   background-color: #FFB310;
   border: none;
-  border-radius: 10px;
+  border-radius: 20px;
   cursor: pointer;
 }
 
@@ -97,6 +97,20 @@ ul.songs li {
   align-items: center;
   justify-content: space-between;
   margin: 10px 0;
+}
+
+.song-all {
+  max-width: 350px;
+}
+
+.song-band {
+  color: #A1C911;
+}
+
+.lyric-btn {
+  padding: 8px;
+  font-size: 14px;
+  width: 110px;
 }
 
 .container {
