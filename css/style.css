@@ -113,6 +113,12 @@ ul.songs li {
   width: 110px;
 }
 
+.artist-title {
+  color: #A1C911;
+  font-size: 24px;
+  text-align: center;
+}
+
 .container {
   margin: 30px auto;
   width: 500px;
